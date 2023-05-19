@@ -1,0 +1,5 @@
+/Users/gao/Projects/OliviaBase/Quickstarts/CatalystQuickstart/CatalystQuickstart/obj/Debug/net5.0/CatalystQuickstart.csproj.AssemblyReference.cache
+/Users/gao/Projects/OliviaBase/Quickstarts/CatalystQuickstart/CatalystQuickstart/obj/Debug/net5.0/CatalystQuickstart.GeneratedMSBuildEditorConfig.editorconfig
+/Users/gao/Projects/OliviaBase/Quickstarts/CatalystQuickstart/CatalystQuickstart/obj/Debug/net5.0/CatalystQuickstart.AssemblyInfoInputs.cache
+/Users/gao/Projects/OliviaBase/Quickstarts/CatalystQuickstart/CatalystQuickstart/obj/Debug/net5.0/CatalystQuickstart.AssemblyInfo.cs
+/Users/gao/Projects/OliviaBase/Quickstarts/CatalystQuickstart/CatalystQuickstart/obj/Debug/net5.0/CatalystQuickstart.csproj.CoreCompileInputs.cache

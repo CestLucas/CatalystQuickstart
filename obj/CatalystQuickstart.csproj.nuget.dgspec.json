@@ -1,0 +1,79 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/gao/Projects/OliviaBase/Quickstarts/CatalystQuickstart/CatalystQuickstart/CatalystQuickstart.csproj": {}
+  },
+  "projects": {
+    "/Users/gao/Projects/OliviaBase/Quickstarts/CatalystQuickstart/CatalystQuickstart/CatalystQuickstart.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/gao/Projects/OliviaBase/Quickstarts/CatalystQuickstart/CatalystQuickstart/CatalystQuickstart.csproj",
+        "projectName": "CatalystQuickstart",
+        "projectPath": "/Users/gao/Projects/OliviaBase/Quickstarts/CatalystQuickstart/CatalystQuickstart/CatalystQuickstart.csproj",
+        "packagesPath": "/Users/gao/.nuget/packages/",
+        "outputPath": "/Users/gao/Projects/OliviaBase/Quickstarts/CatalystQuickstart/CatalystQuickstart/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/gao/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Catalyst": {
+              "target": "Package",
+              "version": "[1.0.38526, )"
+            },
+            "Catalyst.Models.English": {
+              "target": "Package",
+              "version": "[1.0.30952, )"
+            },
+            "Catalyst.Models.French": {
+              "target": "Package",
+              "version": "[1.0.30952, )"
+            },
+            "System.Runtime.Caching": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.302/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
